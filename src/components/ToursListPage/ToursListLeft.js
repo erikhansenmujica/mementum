@@ -1,6 +1,6 @@
 import toursListPage from "@/data/toursListPage";
 import React, { useState } from "react";
-import Slider from "react-rangeslider";
+
 import Select from "react-select";
 
 const { categories, durations } = toursListPage;
