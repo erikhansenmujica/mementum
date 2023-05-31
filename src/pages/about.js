@@ -1,3 +1,4 @@
+import React from "react";
 import AboutPage from "@/components/AboutPage/AboutPage";
 import BookNow from "@/components/BookNow/BookNow";
 import BrandTwo from "@/components/BrandTwo/BrandTwo";
@@ -7,7 +8,6 @@ import PageHeader from "@/components/PageHeader/PageHeader";
 import TeamOne from "@/components/TeamOne/TeamOne";
 import TestimonialOne from "@/components/TestimonialOne/TestimonialOne";
 import VideoTwo from "@/components/VideoTwo/VideoTwo";
-import React from "react";
 
 const About = () => {
   return (
