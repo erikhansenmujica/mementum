@@ -1,0 +1,52 @@
+const toursListPage = {
+  categories: [],
+  durations: ["3 days", "7 days"],
+  toursList: [
+    {
+      id: 1,
+      image: "tours-list-img-1.jpg",
+      superb: "8.0",
+      title: "Alicante Weekend PartyTour",
+      rate: 870,
+      text: "Lorem ipsum available isn but the majority have suffered alteratin in some or form injected semper fames.",
+      date: "3 Days",
+      user: "12+",
+      map: "Alicante - Spain",
+    },
+    {
+      id: 2,
+      image: "tours-list-img-2.jpg",
+      superb: "8.0",
+      title: "Alicante Weekly PartyTour",
+      rate: 2870,
+      text: "Lorem ipsum available isn but the majority have suffered alteratin in some or form injected semper fames.",
+      date: "7 Days",
+      user: "18+",
+      map: "Alicante - Spain",
+    },
+    {
+      id: 3,
+      image: "tours-list-img-3.jpg",
+      superb: "8.0",
+      title: "Porto Weekend PartyTour",
+      rate: 870,
+      text: "Lorem ipsum available isn but the majority have suffered alteratin in some or form injected semper fames.",
+      date: "3 Days",
+      user: "12+",
+      map: "Porto - Portugal",
+    },
+    {
+      id: 4,
+      image: "tours-list-img-4.jpg",
+      superb: "8.0",
+      title: "Porto Weekly PartyTour",
+      rate: 2870,
+      text: "Lorem ipsum available isn but the majority have suffered alteratin in some or form injected semper fames.",
+      date: "7 Days",
+      user: "18+",
+      map: "Porto - Portugal",
+    },
+  ],
+};
+
+export default toursListPage;
